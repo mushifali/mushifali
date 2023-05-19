@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi! 👋 I am Mushif. 🤓
 
-<!--
-**mushifali/mushifali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an experienced hands-on Backend Software Engineer. 💻 📚 🏋️‍♂️  
+I use Java, Python, TypeScript, JavaScript and other technologies to build software.  
 
-Here are some ideas to get you started:
+[Email](mailto:mushif07@gmail.com) |
+[LinkedIn](https://linkedin.com/in/mushifalinawaz) |
+[StackOverflow](https://stackoverflow.com/users/5413565/mushif-ali-nawaz) |
+[GitHub Public Repositories](https://github.com/mushifali?tab=repositories&q=&type=public&language=&sort=stargazers) |
+[GitHub Gists](https://gist.github.com/mushifali)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5413565?color=orange&label=StackOverflow&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/5413565)
+[![GitHub User's stars](https://img.shields.io/github/stars/mushifali?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/mushifali?tab=repositories&q=&type=public&language=&sort=stargazers)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square)](https://www.buymeacoffee.com/mushifali)
